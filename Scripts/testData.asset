@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67005a18e75746c4cac4b79214a90969, type: 3}
+  m_Name: testData
+  m_EditorClassIdentifier: 
+  easy:
+  - categ: {fileID: 6320171945906188757, guid: c92db7599b866fb49a66f7e462f9cf5d, type: 3}
+    scoreAlpaNum: {fileID: 0}
+    scoreSalita: {fileID: 0}
+    scoreParirala: {fileID: 0}
+    questionImage: {fileID: 21300000, guid: 4ad90e08c8cd11a478b93cb9463bbd9b, type: 3}
+    questionImage1: {fileID: 21300000, guid: a31494324b6619248b7ae879c3349b68, type: 3}
+    signImage: {fileID: 21300000, guid: 06608a467cff0b749b5cb209271628ba, type: 3}
+    signAnim: {fileID: 0}
+    questionImage2: {fileID: 21300000, guid: 9e708ee989e7c9d4094c85ab4b0f7e26, type: 3}
+    questionImage3: {fileID: 21300000, guid: e9354b8caf2716e44adce05b9620b267, type: 3}
+    zoomImage: {fileID: 21300000, guid: 4ad90e08c8cd11a478b93cb9463bbd9b, type: 3}
+    zoomImage1: {fileID: 21300000, guid: a31494324b6619248b7ae879c3349b68, type: 3}
+    signZoom: {fileID: 21300000, guid: 06608a467cff0b749b5cb209271628ba, type: 3}
+    zoomAnim: {fileID: 0}
+    zoomImage2: {fileID: 21300000, guid: 9e708ee989e7c9d4094c85ab4b0f7e26, type: 3}
+    zoomImage3: {fileID: 21300000, guid: e9354b8caf2716e44adce05b9620b267, type: 3}
+    answer: ISA
+    isDone: 0
+    difficulty: 0
+    score: 100
+  - categ: {fileID: 6320171945906188757, guid: ae29ad9ca544806428647d0b381de038, type: 3}
+    scoreAlpaNum: {fileID: 0}
+    scoreSalita: {fileID: 0}
+    scoreParirala: {fileID: 0}
+    questionImage: {fileID: 21300000, guid: 88493cab701c7394fa90360edbe767d2, type: 3}
+    questionImage1: {fileID: 21300000, guid: 3edce305efe7829459a065d6101daf83, type: 3}
+    signImage: {fileID: 21300000, guid: cbf89713d73c59647978a289c00bf8b7, type: 3}
+    signAnim: {fileID: 0}
+    questionImage2: {fileID: 21300000, guid: e5aa9058f50fda142a5eeff790c43fe2, type: 3}
+    questionImage3: {fileID: 21300000, guid: 43f38792b29e0834f945cd8187792844, type: 3}
+    zoomImage: {fileID: 21300000, guid: 88493cab701c7394fa90360edbe767d2, type: 3}
+    zoomImage1: {fileID: 21300000, guid: 3edce305efe7829459a065d6101daf83, type: 3}
+    signZoom: {fileID: 21300000, guid: cbf89713d73c59647978a289c00bf8b7, type: 3}
+    zoomAnim: {fileID: 0}
+    zoomImage2: {fileID: 21300000, guid: e5aa9058f50fda142a5eeff790c43fe2, type: 3}
+    zoomImage3: {fileID: 21300000, guid: 43f38792b29e0834f945cd8187792844, type: 3}
+    answer: A
+    isDone: 0
+    difficulty: 0
+    score: 100
+  - categ: {fileID: 6320171945906188757, guid: c92db7599b866fb49a66f7e462f9cf5d, type: 3}
+    scoreAlpaNum: {fileID: 0}
+    scoreSalita: {fileID: 0}
+    scoreParirala: {fileID: 0}
+    questionImage: {fileID: 21300000, guid: b25c7a50397108047a61b800488196e0, type: 3}
+    questionImage1: {fileID: 21300000, guid: 60cb9ba0898de424ab0bf58ce4f80c2b, type: 3}
+    signImage: {fileID: 21300000, guid: c49e70b7990c39e418f187c6c98514f1, type: 3}
+    signAnim: {fileID: 0}
+    questionImage2: {fileID: 21300000, guid: ebf14882b3c26a94884928872cbdb63e, type: 3}
+    questionImage3: {fileID: 21300000, guid: 79744574323e242449344605aa9487a2, type: 3}
+    zoomImage: {fileID: 21300000, guid: b25c7a50397108047a61b800488196e0, type: 3}
+    zoomImage1: {fileID: 21300000, guid: 60cb9ba0898de424ab0bf58ce4f80c2b, type: 3}
+    signZoom: {fileID: 21300000, guid: c49e70b7990c39e418f187c6c98514f1, type: 3}
+    zoomAnim: {fileID: 0}
+    zoomImage2: {fileID: 21300000, guid: ebf14882b3c26a94884928872cbdb63e, type: 3}
+    zoomImage3: {fileID: 21300000, guid: 79744574323e242449344605aa9487a2, type: 3}
+    answer: DALAWA
+    isDone: 0
+    difficulty: 0
+    score: 100
+  medium:
+  - categ: {fileID: 6320171945906188757, guid: f518f31124d30a042b63bf835deeb72f, type: 3}
+    scoreAlpaNum: {fileID: 0}
+    scoreSalita: {fileID: 0}
+    scoreParirala: {fileID: 0}
+    questionImage: {fileID: 21300000, guid: 3032c72c579dde843842962da552fac2, type: 3}
+    questionImage1: {fileID: 21300000, guid: 983f65528a1e19b45a6725d326a2238a, type: 3}
+    signImage: {fileID: 0}
+    signAnim: {fileID: 4377588332697200698, guid: d36327c7cbd6e4e46be228f99c4031ad, type: 3}
+    questionImage2: {fileID: 21300000, guid: fffa1a9cc21992b4eb005c61e27ad58f, type: 3}
+    questionImage3: {fileID: 21300000, guid: 14261f96af0e53141a45ce2414da2135, type: 3}
+    zoomImage: {fileID: 21300000, guid: 3032c72c579dde843842962da552fac2, type: 3}
+    zoomImage1: {fileID: 21300000, guid: 983f65528a1e19b45a6725d326a2238a, type: 3}
+    signZoom: {fileID: 0}
+    zoomAnim: {fileID: 4377588332697200698, guid: d36327c7cbd6e4e46be228f99c4031ad, type: 3}
+    zoomImage2: {fileID: 21300000, guid: fffa1a9cc21992b4eb005c61e27ad58f, type: 3}
+    zoomImage3: {fileID: 21300000, guid: 14261f96af0e53141a45ce2414da2135, type: 3}
+    answer: AMA
+    isDone: 0
+    difficulty: 1
+    score: 12
+  - categ: {fileID: 6320171945906188757, guid: f518f31124d30a042b63bf835deeb72f, type: 3}
+    scoreAlpaNum: {fileID: 0}
+    scoreSalita: {fileID: 0}
+    scoreParirala: {fileID: 0}
+    questionImage: {fileID: 21300000, guid: 5bf0bb61982aeb24d9e5f47e0d15f219, type: 3}
+    questionImage1: {fileID: 21300000, guid: df58b5c4df30f144bacf7b4c788d619d, type: 3}
+    signImage: {fileID: 0}
+    signAnim: {fileID: 4377588332697200698, guid: 53e96b05a76945d43a357759d8ab4319, type: 3}
+    questionImage2: {fileID: 21300000, guid: 9d378e38694b4e3469ea78bee2ceddbf, type: 3}
+    questionImage3: {fileID: 21300000, guid: b2431758e85cca24ba2ad942edae6aae, type: 3}
+    zoomImage: {fileID: 21300000, guid: 5bf0bb61982aeb24d9e5f47e0d15f219, type: 3}
+    zoomImage1: {fileID: 21300000, guid: df58b5c4df30f144bacf7b4c788d619d, type: 3}
+    signZoom: {fileID: 0}
+    zoomAnim: {fileID: 4377588332697200698, guid: 53e96b05a76945d43a357759d8ab4319, type: 3}
+    zoomImage2: {fileID: 21300000, guid: 9d378e38694b4e3469ea78bee2ceddbf, type: 3}
+    zoomImage3: {fileID: 21300000, guid: b2431758e85cca24ba2ad942edae6aae, type: 3}
+    answer: ATE
+    isDone: 0
+    difficulty: 1
+    score: 100
+  - categ: {fileID: 6320171945906188757, guid: f518f31124d30a042b63bf835deeb72f, type: 3}
+    scoreAlpaNum: {fileID: 0}
+    scoreSalita: {fileID: 0}
+    scoreParirala: {fileID: 0}
+    questionImage: {fileID: 21300000, guid: d488c0b96bfd7a64ea654573b858fea2, type: 3}
+    questionImage1: {fileID: 21300000, guid: 79e101a515a03e842a41796d8352b3f7, type: 3}
+    signImage: {fileID: 0}
+    signAnim: {fileID: 4377588332697200698, guid: 0d416b62688e4b445b1391577da23e0c, type: 3}
+    questionImage2: {fileID: 21300000, guid: 34ca5da70ba242a478d767234dca6bd9, type: 3}
+    questionImage3: {fileID: 21300000, guid: d2c6b66841944ee4d836115f39fe0dfe, type: 3}
+    zoomImage: {fileID: 21300000, guid: d488c0b96bfd7a64ea654573b858fea2, type: 3}
+    zoomImage1: {fileID: 21300000, guid: 79e101a515a03e842a41796d8352b3f7, type: 3}
+    signZoom: {fileID: 0}
+    zoomAnim: {fileID: 4377588332697200698, guid: 0d416b62688e4b445b1391577da23e0c, type: 3}
+    zoomImage2: {fileID: 21300000, guid: 34ca5da70ba242a478d767234dca6bd9, type: 3}
+    zoomImage3: {fileID: 21300000, guid: d2c6b66841944ee4d836115f39fe0dfe, type: 3}
+    answer: INA
+    isDone: 0
+    difficulty: 1
+    score: 100
+  difficult:
+  - categ: {fileID: 6320171945906188757, guid: 8d623d7fffa79384b8b5e1fd6245b9d3, type: 3}
+    scoreAlpaNum: {fileID: 0}
+    scoreSalita: {fileID: 0}
+    scoreParirala: {fileID: 0}
+    questionImage: {fileID: 21300000, guid: 00988acfcdd2d7547a21a5dce17eb1f1, type: 3}
+    questionImage1: {fileID: 21300000, guid: b9311ed6ecc97234b8aeaf286451e733, type: 3}
+    signImage: {fileID: 0}
+    signAnim: {fileID: 4377588332697200698, guid: 527c73f6a188c4844bdd70f0d3366b96, type: 3}
+    questionImage2: {fileID: 21300000, guid: 8ea860c621f5ee04f8c4921db7002f2e, type: 3}
+    questionImage3: {fileID: 21300000, guid: fb0402ff27f661a45a7e08bb2ff61f50, type: 3}
+    zoomImage: {fileID: 21300000, guid: 00988acfcdd2d7547a21a5dce17eb1f1, type: 3}
+    zoomImage1: {fileID: 21300000, guid: b9311ed6ecc97234b8aeaf286451e733, type: 3}
+    signZoom: {fileID: 0}
+    zoomAnim: {fileID: 4377588332697200698, guid: 527c73f6a188c4844bdd70f0d3366b96, type: 3}
+    zoomImage2: {fileID: 21300000, guid: 8ea860c621f5ee04f8c4921db7002f2e, type: 3}
+    zoomImage3: {fileID: 21300000, guid: fb0402ff27f661a45a7e08bb2ff61f50, type: 3}
+    answer: MAGANDANG UMAGA
+    isDone: 0
+    difficulty: 2
+    score: 100
+  - categ: {fileID: 6320171945906188757, guid: 9241b483865aabc40899b458851ae174, type: 3}
+    scoreAlpaNum: {fileID: 0}
+    scoreSalita: {fileID: 0}
+    scoreParirala: {fileID: 0}
+    questionImage: {fileID: 21300000, guid: 2f5d83304a72c08458864b8eceddc9c3, type: 3}
+    questionImage1: {fileID: 21300000, guid: 54e6b4702729c0e4194f8449bc714f58, type: 3}
+    signImage: {fileID: 0}
+    signAnim: {fileID: 4377588332697200698, guid: 9c7def8ba96742a4e94d77e8c33c412f, type: 3}
+    questionImage2: {fileID: 21300000, guid: fbff488ecbfb34e44bc10c96d26aa788, type: 3}
+    questionImage3: {fileID: 21300000, guid: 8daf9008e5e21b14498ace1f2e08b2a5, type: 3}
+    zoomImage: {fileID: 21300000, guid: 2f5d83304a72c08458864b8eceddc9c3, type: 3}
+    zoomImage1: {fileID: 21300000, guid: 54e6b4702729c0e4194f8449bc714f58, type: 3}
+    signZoom: {fileID: 0}
+    zoomAnim: {fileID: 4377588332697200698, guid: 9c7def8ba96742a4e94d77e8c33c412f, type: 3}
+    zoomImage2: {fileID: 21300000, guid: fbff488ecbfb34e44bc10c96d26aa788, type: 3}
+    zoomImage3: {fileID: 21300000, guid: 8daf9008e5e21b14498ace1f2e08b2a5, type: 3}
+    answer: MAHAL KITA
+    isDone: 0
+    difficulty: 2
+    score: 85
+  - categ: {fileID: 6320171945906188757, guid: 977bcf3b770baa94e8915873f7e7e03d, type: 3}
+    scoreAlpaNum: {fileID: 0}
+    scoreSalita: {fileID: 0}
+    scoreParirala: {fileID: 0}
+    questionImage: {fileID: 21300000, guid: a28d7b023fbceb44cad72513382561a1, type: 3}
+    questionImage1: {fileID: 21300000, guid: 580c0d875bb02bb45b122f75d5b58d46, type: 3}
+    signImage: {fileID: 0}
+    signAnim: {fileID: 4377588332697200698, guid: 2c955ad7b89781941a1f18fce83da94a, type: 3}
+    questionImage2: {fileID: 21300000, guid: 8668a944604fc3045ba9b3348309001d, type: 3}
+    questionImage3: {fileID: 21300000, guid: 6f62e0276d62b104184e045cfeedcbcf, type: 3}
+    zoomImage: {fileID: 21300000, guid: a28d7b023fbceb44cad72513382561a1, type: 3}
+    zoomImage1: {fileID: 21300000, guid: 580c0d875bb02bb45b122f75d5b58d46, type: 3}
+    signZoom: {fileID: 0}
+    zoomAnim: {fileID: 4377588332697200698, guid: 2c955ad7b89781941a1f18fce83da94a, type: 3}
+    zoomImage2: {fileID: 21300000, guid: 8668a944604fc3045ba9b3348309001d, type: 3}
+    zoomImage3: {fileID: 21300000, guid: 6f62e0276d62b104184e045cfeedcbcf, type: 3}
+    answer: KUMUSTA KA?
+    isDone: 0
+    difficulty: 2
+    score: 100
